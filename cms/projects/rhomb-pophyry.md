@@ -10,7 +10,7 @@ f_image:
 slug: rhomb-pophyry
 updated-on: '2022-09-09T02:17:52.719Z'
 created-on: '2022-09-09T02:01:00.633Z'
-published-on: '2022-09-09T02:20:39.253Z'
+published-on: '2022-09-20T00:30:49.140Z'
 f_heading-2: pophyry
 layout: '[projects].html'
 tags: projects
